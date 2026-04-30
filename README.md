@@ -8,7 +8,7 @@
 
 ## How to Run
 1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/Mr_NABIN-v2-Pinger.git`
+   `git remote add origin https://github.com/Nabin887/Mr_NABIN-v2-Pinger.git`
 2. Navigate to the folder:
    `cd Mr_NABIN-v2-Pinger`
 3. Run the tool:
